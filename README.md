@@ -1,19 +1,20 @@
 # Hey there! 👋 I'm Michael Kinyunyu
 
-**Data Engineer | Building Reliable Data Systems**
+** Software Engineer | Backend & Full-Stack Systems **
 
-> Designing and building data pipelines that turn raw data into actionable insights.
+> Designing high-performance backend APIs, modern web/mobile interfaces, and scalable, data-driven architectures.
 
 ---
 
 ## 💡 What I Do
 
-| Area | Tools |
-|------|-------|
-| **Data Pipelines** | Apache Spark, Kafka, Databricks, ETL/ELT workflows |
-| **Backend Systems** | Python, Django, FastAPI, Node.js |
-| **Cloud & Infrastructure** | AWS (S3, IAM, Glue) |
-| **AI/ML** | Model training, real-time detection systems |
+| Area | Tools & Technologies |
+|------|----------------------|
+| **Backend Engineering** | Python, FastAPI, Django, Node.js, RESTful APIs, Microservices |
+| **Frontend & Mobile** | React.js, Vite, Tailwind CSS, React Native / Expo, JavaScript |
+| **Databases & Storage** | PostgreSQL, SQLite, SQLAlchemy, DuckDB, Redis, AWS S3 |
+| **DevOps & Infrastructure** | Docker, Docker Compose, Git, Linux (Fedora), CI/CD, AWS |
+| **Data & AI Systems** | AI Backend integrations, RAG architectures, ML model serving |
 
 ---
 
@@ -23,41 +24,43 @@
 <tr>
 <td width="50%">
 
-### Data Engineering
-- ETL/ELT pipeline design
-- Apache Spark workflows
-- Kafka streaming
-- Databricks implementation
-- Data quality & governance
+### Backend & Systems Architecture
+- High-performance RESTful API design
+- FastAPI & Django ecosystem expertise
+- Database schema design & SQL optimization
+- Microservices & asynchronous processing
+- Authentication, security & authorization
 
 </td>
 <td width="50%">
 
-### Backend & API Design
-- RESTful APIs & architecture
-- Django & FastAPI expertise
-- Database optimization
-- Microservices design
+### Frontend & Mobile Development
+- Modern SPA development with React & Vite
+- Responsive UI styling using Tailwind CSS
+- Cross-platform mobile apps (Expo / React Native)
+- State management & seamless API integration
+- Clean, user-centric UX/UI implementations
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Cloud & DevOps
-- AWS services (S3, IAM, Glue)
-- Infrastructure as Code
-- CI/CD pipelines
-- Scalable deployments
+### DevOps & Infrastructure
+- Containerization with Docker & Docker Compose
+- CI/CD pipeline automation
+- AWS cloud storage & security (S3, IAM)
+- Linux environment administration (Fedora)
+- Production deployment & environment setup
 
 </td>
 <td width="50%">
 
-### AI & Machine Learning
-- Model training & fine-tuning
-- Real-time ML systems
-- Production ML pipelines
-- Data-driven applications
+### Data & AI Engineering
+- AI backend integration & agentic workflows
+- Retrieval-Augmented Generation (RAG) frameworks
+- Data pipeline design (PySpark, DuckDB)
+- Production machine learning deployment
 
 </td>
 </tr>
@@ -67,45 +70,39 @@
 
 ## 🚀 What I'm Building
 
-📊 **Data pipelines** that transform raw data into actionable insights  
-🤖 **AI-driven solutions** for production systems  
-🌐 **Full-stack platforms** with solid backend foundations  
+⚙️ **High-performance backend systems** powered by FastAPI and PostgreSQL  
+💻 **Modern full-stack web & mobile applications** using React, Vite, and Tailwind CSS  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** `Python` `Java` `JavaScript` `SQL`
+**Languages:** `Python` `JavaScript` `SQL` `Java` `HTML/CSS`
 
 **Frameworks & Libraries:**
-```
-Data:      Apache Spark | Kafka | Pandas | NumPy
-Backend:   Django | FastAPI | Node.js | Express
-ML/AI:     TensorFlow | Scikit-learn | PyTorch
-```
+Backend:   FastAPI | Django | Node.js | Express | Pydantic | SQLAlchemy
+Frontend:  React.js | Vite | Tailwind CSS | React Native / Expo
+Data/ML:   Pandas | NumPy | PySpark | TensorFlow | LangChain
 
 **Platforms & Tools:**
-```
-Cloud:     AWS (S3, IAM, Glue) | Databricks
-Databases: PostgreSQL | MongoDB | Redis
-DevOps:    Docker | Git | CI/CD pipelines
-```
-
+Databases: PostgreSQL | SQLite | DuckDB | Redis
+DevOps:    Docker | Git  | Linux (Fedora)
+Cloud:     AWS (S3, IAM, Glue)
 ---
 
 ## 📈 Currently Focused On
 
-🎯 Building **production-ready data pipelines** at scale  
-🎯 Applying **AI/ML** to solve real-world problems  
-🎯 Contributing to **open-source** data projects  
+🎯 Architecting **scalable backend APIs** and robust microservices  
+🎯 Engineering **responsive full-stack applications** end-to-end  
+🎯 Integrating **AI & LLM pipelines** into modern software platforms  
 
 ---
 
 ## 🌟 Featured Work
 
-- **Data Engineering:** Complex pipelines, real-time processing, data quality
-- **AI/ML Projects:** Real-time SMS detection, predictive models, intelligent automation
-- **Backend Development:** High-performance APIs, database optimization, system architecture
+- **Backend & APIs:** Production-ready FastAPI services, complex database migrations, and high-speed endpoints.
+- **Full-Stack Systems:** E-commerce marketplaces and web platforms engineered with React, Tailwind CSS, and FastAPI.
+- **AI & Data Engineering:** Custom ML APIs, autonomous statutory analysis tools, and real-time data pipelines.
 
 ---
 

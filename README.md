@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Michael Kinyunyu
 
-** Software Engineer | Backend & Full-Stack Systems **
+** Software Engineer | Backend & Data Engineer | Building Reliable Data Systems **
 
 > Designing high-performance backend APIs, modern web/mobile interfaces, and scalable, data-driven architectures.
 

@@ -13,7 +13,6 @@
 | **Backend Engineering** | Python, FastAPI, Django, Node.js, RESTful APIs, Microservices |
 | **Frontend & Mobile** | React.js, Vite, Tailwind CSS, React Native / Expo, JavaScript |
 | **Databases & Storage** | PostgreSQL, SQLite, SQLAlchemy, DuckDB, Redis, AWS S3 |
-| **DevOps & Infrastructure** | Docker, Docker Compose, Git, Linux (Fedora), CI/CD, AWS |
 | **Data & AI Systems** | AI Backend integrations, RAG architectures, ML model serving |
 
 ---
